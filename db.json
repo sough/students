@@ -1,0 +1,11 @@
+{
+  "students": [
+    { "id": 1, "name": "Beknur", "surname": "Yessenbay", "email": "170107037@stu.sdu.edu.kz", "age": 20, "city": "Aktau", "univer": "SDU", "hobby": "Football", "dream": "go to the champions league final" },
+    { "id": 2, "name": "Alibi", "surname": "Semeikhan", "email": "alibisemeikhan@gmail.com", "age": 20, "city": "Almaty", "univer": "IITU", "hobby": "Jiu-Jitsu", "dream": "To become a professional android developer" },
+    { "id": 3, "name": "Bakkeldi", "surname": "Orozbekov", "email": "bakkeldi.orozbekov@iaau.edu.kg", "age": 20, "city": "Bishkek", "univer": "IAAU", "hobby": "Tennis", "dream": "To work in top IT companies" },
+    { "id": 4, "name": "Bekzat", "surname": "Beshimov", "email": "beshimovbekzat@gmail.com", "age": 21, "city": "Atyrau", "univer": "KBTU", "hobby": "Football", "dream": "Dreams will come true ji est" },
+    { "id": 5, "name": "Dastan", "surname": "Maimash", "email": "maymashd@mail.ru", "age": 21, "city": "Almaty", "univer": "KBTU", "hobby": "Computer games", "dream": "Always see: compilation completed successfully:)" },
+    { "id": 6, "name": "Bagdaulet", "surname": "Temirbek", "email": "bagdaulet881@gmail.com", "age": 20, "city": "Kyzylorda", "univer": "KBTU", "hobby": "Ride a bike and play dota", "dream": "Few lines of text about my dream which I gonna keep in secret ;)))" },
+    { "id": 7, "name": "Bekarys", "surname": "Sailaukul", "email": "bsailaukul@gmail.com", "age": 21, "city": "Taraz", "univer": "KBTU", "hobby": "Playing dombyra", "dream": "I want to visit all new 7 wonders of the world" }
+  ]
+}
