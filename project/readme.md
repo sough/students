@@ -10,7 +10,7 @@ Authorization client
 
 ### If phone entered, provide SMS code (by default = 000000)
 ### If email entered, then skip this step
-<img src="./screen_3-Register_2.png" alt="drawing" width="300"/>
+<img src="./screen_3-Register_21.png" alt="drawing" width="300"/>
 
 ### Create password
 <img src="./screen_4-Register_3.png" alt="drawing" width="300"/>
